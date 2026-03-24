@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**Parth-Narang/Parth-Narang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (2028)  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I enjoy coding and solving problems  
+- Currently focused on Data Structures & Algorithms  
+- Exploring AI/ML  
+
+---
+
+## 🛠 Tech Stack
+- Languages: Java, Python, C  
+- Concepts: DSA, Problem Solving  
+- Tools: Git, GitHub  
+
+---
+
+## 📌 Currently Working On
+- Improving DSA skills  
+- Building small projects  
+
+---
+
+## 📫 Contact
+- Email: parthnarang9may@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/parthnarang09  
+
+---
