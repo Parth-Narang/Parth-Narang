@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - I enjoy coding and solving problems  
 - Currently focused on Data Structures & Algorithms and practising LeetCode problems.   
-- Exploring AI/ML  
+- Exploring AI/ML and Web Development
 
 ---
 
